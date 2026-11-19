@@ -1,0 +1,2 @@
+from . import edi_wms_handler_process_inventory_report
+from . import stock_external_inventory_report
